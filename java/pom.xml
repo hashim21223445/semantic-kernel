@@ -21,7 +21,7 @@
         <google.java.format.version>1.17.0</google.java.format.version>
         <jreleaser.plugin.version>1.6.0</jreleaser.plugin.version>
         <junit5.version>5.10.2</junit5.version>
-        <log4j2.version>2.22.1</log4j2.version>
+        <log4j2.version>2.25.3</log4j2.version>
         <maven.antrun-plugin.version>3.1.0</maven.antrun-plugin.version>
         <maven.changes-plugin.version>2.12.1</maven.changes-plugin.version>
         <maven.checkstyle-plugin.version>3.3.1</maven.checkstyle-plugin.version>
@@ -661,7 +661,7 @@
                                 <licenseHeader>
                                     <content>// Copyright (c) Microsoft. All rights reserved.</content>
                                 </licenseHeader>
-                                <toggleOffOn />
+                                <toggleOffOn/>
                             </java>
                         </configuration>
                     </plugin>
